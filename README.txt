@@ -1,6 +1,3 @@
-turn off antivirus
-open setup.exe
-open RoCard.exe 
-wait and enjoy :)!
+-----PATCHED-----
 
 MADE BY whoskuroko ON DISCORD!
